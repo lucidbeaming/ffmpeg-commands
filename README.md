@@ -1,5 +1,7 @@
 # ffmpeg-commands
 
+> **Moved.** This collection now lives in [lucidbeaming/ffmpeg-utilities](https://github.com/lucidbeaming/ffmpeg-utilities), with its full history. This repository is archived.
+
 Real-world ffmpeg commands for transforming video, images and audio, grouped by theme.
 
 Each `.sh` file is a single, copy-paste-ready command or small loop, taken from real projects. The comment header explains what it does and why, what every flag means, which script it came from, and what was changed to bring it up to date. Every ffmpeg example was run against generated test media on ffmpeg 9.0.2.
